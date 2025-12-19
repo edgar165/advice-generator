@@ -23,7 +23,7 @@
 }
 body {
   background-color: var(--Blue-950);
-  margin: 80px 50px 50px 60px;
+   margin: 80px 50px 50px 60px; 
 }
 
 .hero {
@@ -39,7 +39,7 @@ body {
   gap: 30px;
   background-color: var(--Blue-900);
   justify-content: center;
-  margin: 100px 80px 80px 80px;
+   margin: 100px 80px 80px 80px;
   padding: 30px;
 }
 .Advice {
@@ -62,4 +62,8 @@ body {
   color: var(--Green-300);
   transition: ease-in-out 0s;
   scale: 1.1;
+}
+.dicebtn{
+  padding: 5px;
+  background-color: var(--Green-300);
 }
